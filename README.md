@@ -1,10 +1,5 @@
 # maketestrepo
 Make Test Repo
-making a test change in the readme file
+A readme file built with love using MAKE and GROQ.
 
-Made all changes in the file and now testing it.
-using Make.com and Groq
-
-
-It will fetch and reply with the code summary as well.
-For questions, reach out, reach out and reach out!
+Using AI Agents and deep GitHub integration as well. 
